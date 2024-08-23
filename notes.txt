@@ -1,0 +1,21 @@
+1.Main Layout Page : (layout.js)
+jehetu sobgula page ei Nav and footer present thakbe ,tai 
+<Navbar> and <Footer> ke Children er moddhe disi 
+
+2.Navbar:
+2 ta navbar create kora hoise
+1.For mobile devices
+2.Mid & large devices
+
+jeigulate user er interaction use hoy segula alada file e code 
+kore then import kortesi 
+<Menu></Menu> 
+and ei Menu.jsx e "use client " use kortesi
+Menu.jsx:
+"use client"
+
+............use state......
+
+aladave routing er kaj korar jonne UseRouter import kortesi
+and router.push diye kaj kortesi
+
